@@ -1,5 +1,5 @@
 ---
-DC Heros: Template for Knowledge Base Docs Websites
+title: Template for Knowledge Base Docs Websites
 ---
 
 ## The index page
