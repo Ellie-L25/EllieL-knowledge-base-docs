@@ -2,7 +2,7 @@
 title: Template for Knowledge Base Docs Websites
 ---
 
-## The index page
+## DC Heroes
 
 This website contains the collection of the original DC heroes.
 
