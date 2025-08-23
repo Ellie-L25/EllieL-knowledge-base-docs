@@ -1,7 +1,10 @@
 ---
-title: Template for Knowledge Base Docs Websites
+DC Heros: Template for Knowledge Base Docs Websites
 ---
+
 ## The index page
+
+This website contains the collection of the original DC heroes.
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
 
