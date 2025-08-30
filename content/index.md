@@ -1,9 +1,6 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: DC Comic Heroes
 ---
-
-## DC Heroes
-
 This website contains the collection of the original DC comics heroes.
 
 ## Main Categories
