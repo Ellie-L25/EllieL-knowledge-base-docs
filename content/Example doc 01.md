@@ -1,5 +1,5 @@
 ---
-DC Heros: Creating docs and frontmatter
+title: Creating docs and frontmatter
 ---
 This is an example doc. Docs are Markdown files inside the `content/` directory.
 
