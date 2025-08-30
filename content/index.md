@@ -4,7 +4,18 @@ title: Template for Knowledge Base Docs Websites
 
 ## DC Heroes
 
-This website contains the collection of the original DC heroes.
+This website contains the collection of the original DC comics heroes.
+
+## Main Categories
+
+- [[heroes-/index|Heroes]]
+- [[villains/index|Villains]]
+- [[teams/index|Teams]]
+- [[stories/index|Stories]]
+- [[media/index|Media]]
+
+
+
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
 
@@ -41,5 +52,5 @@ You can use any text editor capable of opening and editing Markdown files.
 ---
 ## Adding new pages
 
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
+You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[example doc 01]] to learn more.
 
