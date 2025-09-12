@@ -3,7 +3,7 @@ title: Heroes
 ---
 ## Legendary Heroes
 
-- [[superman|Superman]]
+- [[superman.md|Superman]]
 - [[batman|Batman]]
 - [[wonder-woman|Wonder Woman]]
 - [[flash|Flash]]
