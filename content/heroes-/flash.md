@@ -19,4 +19,4 @@ Flash's optimistic nature balances [[batman|Batman's]] darker perspective. He fr
 ### Quote
 > "Things aren't always what they seem. Our fears can play tricks on us, making us afraid to change course, afraid to move on, but usually, hidden behind our fears are second chances waiting to be seized, second chances at life, at glory, at family, at love" - *The Flash*
 
-![[Flash.jpg]]
+![[Flash.jpg|400]]

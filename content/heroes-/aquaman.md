@@ -19,4 +19,4 @@ Aquaman holds Superman's leadership in high regard and deeply admires the wisdom
 ### Quote
 > "They were never meant to meet. But their love saved the world. They made me what I am: a son of the land, a king of the seas"- *Aquaman*
 
-![[Aquaman.jpg]]
+![[Aquaman.jpg|400]]

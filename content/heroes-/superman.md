@@ -20,4 +20,4 @@ Superman long-standing alliance has been with [[batman|Batman]], the pair are al
 > "Dreams save us. Dreams lift us up and transform us. And on my soul, I swear... until my dream of a world where dignity, honor and justice becomes the reality we all share -- I'll never stop fighting" - *Superman*
 
 
-![[Superman1.jpg]]
+![[Superman1.jpg|400]]

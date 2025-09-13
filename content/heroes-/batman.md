@@ -19,4 +19,4 @@ Batman is often a loner but has deep bonds with other heroes. He respects [[supe
 > "It's not who I am underneath, but what I do that defines me" - *Batman*
 
 
-![[batman.jpg]]
+![[batman.jpg|400]]
