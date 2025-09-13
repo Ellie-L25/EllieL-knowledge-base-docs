@@ -12,9 +12,10 @@ title: Batman
 ## Rival
 Batman's greatest enemy is the Joker, a criminal who embodies chaos and disorder in contrast to Batman's pursuit of justice and the stability of Gotham City. Their ongoing struggle symbolizes the battle between order and madness.
 
-### Allies
+## Allies
 Batman is often a loner but has deep bonds with other heroes. He respects [[superman|Superman]] for his morality , he relies on [[flash|Flash]] for his speed in critical situations, and often works with [[wonder-woman|Wonder Woman]] in the Justice League. 
 
+### Quote
 > "It's not who I am underneath, but what I do that defines me" - *Batman*
 
 
