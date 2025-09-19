@@ -19,4 +19,6 @@ Wonder Woman often stands alongside [[superman|Superman]] to defend truth and ju
 ### Quote
 > ""We can't help the way we're born. We can't help what we are, only what life we choose to make for ourselves"" - *Wonder Woman*
 
-![[WonderWoman.jpg|400]]
+## Wonder Woman No.1 Comic
+
+![[assets/Wonder Woman.pdf#300|Wonder Woman]]
