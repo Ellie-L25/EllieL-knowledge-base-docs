@@ -14,7 +14,7 @@ title: Aquaman
 Aquaman's deadliest enemy is black manta, a mercenary consumed by vengeance who holds a personal vendetta against Arthur and Atlantis. Their battles usually threaten both the seas and the surface world. 
 
 ## Allies
-Aquaman holds Superman's leadership in high regard and deeply admires the wisdom of Wonder Woman. Having fought alongside The Flash and Batman in the Justice League, he consistently demonstrates his strength and integrity, embodying the ideals of a true king and a formidable hero.
+Aquaman holds [[superman|Superman's]] leadership in high regard and deeply admires the wisdom of [[wonder-woman|Wonder Woman]]. Having fought alongside [[flash|The Flash]] and [[batman|Batman]] in the Justice League, he consistently demonstrates his strength and integrity, embodying the ideals of a true king and a formidable hero.
 
 ### Quote
 > "They were never meant to meet. But their love saved the world. They made me what I am: a son of the land, a king of the seas"- *Aquaman*
